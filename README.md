@@ -16,6 +16,8 @@ src="https://img.shields.io/twitter/follow/wmisingo?logo=twitter&style=for-the-b
 /></a><a href="https://www.github.com/misingo255" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/misingo255?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 ### Skills
 
 <p align="left">
