@@ -5,8 +5,8 @@ Web, mobile and Machine Learning applications developer
 -------------------------------------
 
 * 🌍  I'm based in Dar es salaam, Tanzania
-* 🖥️  See my portfolio at [http://wilbertmisingo.me](http://wilbertmisingo.me)
-* ✉️  You can contact me at [danstanwilbert@gmail.com](mailto:danstanwilbert@gmail.com)
+* 🖥️  See my portfolio at [http://wilbertmisingo.com](http://wilbertmisingo.com)
+* ✉️  You can contact me at [wilbertmisingo@gmail.com](mailto:wilbertmisingo@gmail.com)
 * 🧠  I love learning new stuffs on Computer Vision and Natural Language Processing
 * 🤝  I'm open to collaborating on Intergrating AI with mobile and web applications
 * ⚡  I love poetry
