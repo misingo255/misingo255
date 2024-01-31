@@ -1,7 +1,7 @@
 Hi 👋 My name is Wilbert Misingo
 ================================
 
-Web, mobile and Machine Learning applications developer
+Web, Mobile and Machine Learning applications developer
 -------------------------------------
 
 * 🌍  I'm based in Dar es salaam, Tanzania
