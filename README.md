@@ -11,8 +11,8 @@ Web, Mobile and Machine Learning applications developer
 * 🤝  I'm open to collaborating on Intergrating AI with mobile and web applications
 * ⚡  I love poetry
 
-<a href="https://www.twitter.com/wmisingo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/wmisingo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/WMisingo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/WMisingo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/misingo255" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/misingo255?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
