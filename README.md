@@ -6,7 +6,7 @@ Software Developer and Machine Learning applications developer
 
 * 🌍  I'm based in Dar es salaam, Tanzania
 * 📝  See my technical writting blog at [http://www.dev.to/wmisingo](https://www.dev.to/wmisingo)
-* 🖥️  See my portfolio at [https://www.wilbertmisingo.com](https://www.wilbertmisingo.com)
+* 🖥️  See my portfolio at [This Link](https://misingo-nextjs-portfolio-git-main-misingo255s-projects.vercel.app/)
 * ✉️  You can contact me at [wilbertmisingo@gmail.com](mailto:wilbertmisingo@gmail.com)
 * 🧠  I love learning new stuffs on Computer Vision and Natural Language Processing
 * 🤝  I'm open to collaborating on Intergrating AI with mobile and web applications
